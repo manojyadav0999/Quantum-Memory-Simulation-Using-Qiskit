@@ -93,12 +93,20 @@ The program will:
 
 ---
 
-## 📊 Example Output
+## 📈 Sample Output
 
-```
-Measurement Counts: {'0': 531, '1': 493}
-```
+Below are example visuals of how the simulator displays quantum incidents and response analytics.
 
+
+### ⚙️ Execution
+![Execution](Screenshots/execution.png)
+
+### 📊 Graph
+![Graph](Screenshots/graph.png)
+
+
+
+---
 The graph will show how often each state was measured — demonstrating the effects of noise on quantum memory.
 
 ---
