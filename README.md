@@ -99,10 +99,10 @@ Below are example visuals of how the simulator displays quantum incidents and re
 
 
 ### ⚙️ Execution
-![Execution](Screenshots/execution.png)
+![Execution](Screenshot/execution.png)
 
 ### 📊 Graph
-![Graph](Screenshots/graph.png)
+![Graph](Screenshot/graph.png)
 
 
 
